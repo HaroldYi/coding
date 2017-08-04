@@ -1,3 +1,10 @@
+/**
+ * Unit tests for coding test function
+ *
+ * @author Harold J. Yi
+ * @since Aug 04, 2017
+ */
+
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
